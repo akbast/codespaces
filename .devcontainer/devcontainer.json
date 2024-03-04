@@ -31,6 +31,7 @@
         "SECRET_1": {
             "description": "A secret value"
         },
-        "SECRET_2": {}
+        "SECRET_2": {},
+        "SECRET_3": {}
     }
 }
