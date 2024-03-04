@@ -26,5 +26,11 @@
             ]
         }
     },
-    "postCreateCommand": "npm install -g @angular/cli"
+    "postCreateCommand": "npm install -g @angular/cli",
+    "secrets": {
+        "SECRET_1": {
+            "description": "A secret value"
+        },
+        "SECRET_2": {}
+    }
 }
