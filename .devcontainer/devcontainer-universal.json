@@ -1,4 +1,5 @@
 {
+    "name": "java17-codespace",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
         "ghcr.io/devcontainers/features/java:1": {
