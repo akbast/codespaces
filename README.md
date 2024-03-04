@@ -29,11 +29,11 @@
 - Secrets in user scope.
 
 # Wrap up!
-- It now works on every machine!!!
-- Collaboration made easier.
-- Easy onboarding for new members.
-- Code even with an iPad.
+- 🚀 It now works on every machine!!!
+- 🚀 Collaboration made easier.
+- 🚀 Easy onboarding for new members.
+- 🚀 Code even with an iPad.
 
-- No connection no code!
-- Hard to setup VPN bridge.
-- Forgot to commit, gone forever!
+- ☹️ No connection no code!
+- ☹️ Hard to setup VPN bridge.
+- ☹️ Forgot to commit, gone forever!
