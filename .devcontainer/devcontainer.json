@@ -15,5 +15,14 @@
             "version": "lts",
             "nvmVersion": "latest"
         }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "Github.copilot",
+                "GitHub.codespaces",
+                "github.vscode-github-actions",
+            ]
+        }
     }
 }
