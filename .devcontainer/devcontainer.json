@@ -24,5 +24,6 @@
                 "github.vscode-github-actions",
             ]
         }
-    }
+    },
+    "postCreateCommand": "npm install -g @angular/cli"
 }
